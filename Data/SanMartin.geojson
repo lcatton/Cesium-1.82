@@ -1,0 +1,1058 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.5992225,
+              37.0791423
+            ],
+            [
+              -121.5991888,
+              37.0790805
+            ],
+            [
+              -121.5986401,
+              37.0780751
+            ],
+            [
+              -121.598298,
+              37.0774483
+            ],
+            [
+              -121.5967335,
+              37.0779917
+            ],
+            [
+              -121.597658,
+              37.0796858
+            ],
+            [
+              -121.5992225,
+              37.0791423
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/27778137",
+        "aeroway": "apron",
+        "surface": "asphalt",
+        "@timestamp": "2015-02-04T11:13:54Z",
+        "@version": 4,
+        "@changeset": 28608460,
+        "@user": "user8192",
+        "@uid": 262921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.6007657,
+              37.0848299
+            ],
+            [
+              -121.6005651,
+              37.0844592
+            ],
+            [
+              -121.6007121,
+              37.0844076
+            ],
+            [
+              -121.600398,
+              37.0838344
+            ],
+            [
+              -121.5999961,
+              37.0839785
+            ],
+            [
+              -121.5994381,
+              37.0829487
+            ],
+            [
+              -121.599404,
+              37.0829605
+            ],
+            [
+              -121.5992085,
+              37.0830285
+            ],
+            [
+              -121.6002868,
+              37.0849425
+            ],
+            [
+              -121.6003571,
+              37.0850672
+            ],
+            [
+              -121.6003887,
+              37.0850546
+            ],
+            [
+              -121.6005662,
+              37.085376
+            ],
+            [
+              -121.6007373,
+              37.085316
+            ],
+            [
+              -121.6005758,
+              37.0850059
+            ],
+            [
+              -121.6007657,
+              37.0848299
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/27778188",
+        "aeroway": "apron",
+        "surface": "asphalt",
+        "@timestamp": "2015-02-04T11:13:54Z",
+        "@version": 6,
+        "@changeset": 28608460,
+        "@user": "user8192",
+        "@uid": 262921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.6009441,
+              37.0817592
+            ],
+            [
+              -121.6008794,
+              37.0816408
+            ],
+            [
+              -121.6000838,
+              37.0819176
+            ],
+            [
+              -121.6001486,
+              37.0820361
+            ],
+            [
+              -121.6009441,
+              37.0817592
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/28274761",
+        "aeroway": "hangar",
+        "building": "hangar",
+        "@timestamp": "2021-04-26T08:21:16Z",
+        "@version": 3,
+        "@changeset": 103618217,
+        "@user": "Minh Nguyen",
+        "@uid": 33757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.6001146,
+              37.0820729
+            ],
+            [
+              -121.6000375,
+              37.0819362
+            ],
+            [
+              -121.5992683,
+              37.0822123
+            ],
+            [
+              -121.5993453,
+              37.0823489
+            ],
+            [
+              -121.6001146,
+              37.0820729
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/28274762",
+        "aeroway": "hangar",
+        "building": "hangar",
+        "@timestamp": "2021-04-26T08:21:16Z",
+        "@version": 3,
+        "@changeset": 103618217,
+        "@user": "Minh Nguyen",
+        "@uid": 33757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.6009904,
+              37.0813812
+            ],
+            [
+              -121.6009102,
+              37.0812369
+            ],
+            [
+              -121.5990356,
+              37.0819005
+            ],
+            [
+              -121.5991158,
+              37.0820447
+            ],
+            [
+              -121.6009904,
+              37.0813812
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/28274763",
+        "aeroway": "hangar",
+        "building": "hangar",
+        "@timestamp": "2021-04-26T08:21:16Z",
+        "@version": 3,
+        "@changeset": 103618217,
+        "@user": "Minh Nguyen",
+        "@uid": 33757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.5988758,
+              37.0816085
+            ],
+            [
+              -121.5989439,
+              37.0817316
+            ],
+            [
+              -121.6011275,
+              37.0809622
+            ],
+            [
+              -121.6010596,
+              37.0808395
+            ],
+            [
+              -121.5988758,
+              37.0816085
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/28274764",
+        "aeroway": "hangar",
+        "building": "hangar",
+        "@timestamp": "2021-04-26T08:21:16Z",
+        "@version": 5,
+        "@changeset": 103618217,
+        "@user": "Minh Nguyen",
+        "@uid": 33757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.6011387,
+              37.0806037
+            ],
+            [
+              -121.6010487,
+              37.0804426
+            ],
+            [
+              -121.5998831,
+              37.080857
+            ],
+            [
+              -121.599973,
+              37.0810179
+            ],
+            [
+              -121.6011387,
+              37.0806037
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/28274765",
+        "aeroway": "hangar",
+        "building": "hangar",
+        "@timestamp": "2021-04-26T08:21:16Z",
+        "@version": 3,
+        "@changeset": 103618217,
+        "@user": "Minh Nguyen",
+        "@uid": 33757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.5946511,
+              37.0739583
+            ],
+            [
+              -121.5927408,
+              37.0746307
+            ],
+            [
+              -121.5931428,
+              37.0753838
+            ],
+            [
+              -121.5931546,
+              37.0754059
+            ],
+            [
+              -121.5926195,
+              37.0755967
+            ],
+            [
+              -121.5987592,
+              37.0867834
+            ],
+            [
+              -121.5988897,
+              37.0869531
+            ],
+            [
+              -121.5990454,
+              37.0870807
+            ],
+            [
+              -121.599224,
+              37.0871861
+            ],
+            [
+              -121.5994251,
+              37.0872484
+            ],
+            [
+              -121.6015069,
+              37.0877704
+            ],
+            [
+              -121.6016565,
+              37.0877868
+            ],
+            [
+              -121.6018734,
+              37.0877587
+            ],
+            [
+              -121.6021523,
+              37.0877092
+            ],
+            [
+              -121.6007569,
+              37.0850234
+            ],
+            [
+              -121.6007982,
+              37.0850081
+            ],
+            [
+              -121.6008389,
+              37.084993
+            ],
+            [
+              -121.6009363,
+              37.0847855
+            ],
+            [
+              -121.6010826,
+              37.0845797
+            ],
+            [
+              -121.6011552,
+              37.0844978
+            ],
+            [
+              -121.6012237,
+              37.0843737
+            ],
+            [
+              -121.6012659,
+              37.0842056
+            ],
+            [
+              -121.6012593,
+              37.0840048
+            ],
+            [
+              -121.6011801,
+              37.0838287
+            ],
+            [
+              -121.6007866,
+              37.0830848
+            ],
+            [
+              -121.6007463,
+              37.0828677
+            ],
+            [
+              -121.6007809,
+              37.0827139
+            ],
+            [
+              -121.6012611,
+              37.0809665
+            ],
+            [
+              -121.601301,
+              37.0807484
+            ],
+            [
+              -121.6013024,
+              37.0805377
+            ],
+            [
+              -121.6011966,
+              37.0803152
+            ],
+            [
+              -121.600682,
+              37.0793549
+            ],
+            [
+              -121.5987589,
+              37.075762
+            ],
+            [
+              -121.5985936,
+              37.0755791
+            ],
+            [
+              -121.5983114,
+              37.0754645
+            ],
+            [
+              -121.5980395,
+              37.0755136
+            ],
+            [
+              -121.5959305,
+              37.0762694
+            ],
+            [
+              -121.5946511,
+              37.0739583
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "San Martin Airport",
+        "@id": "way/137275862",
+        "addr:state": "CA",
+        "aerodrome": "public",
+        "aeroway": "aerodrome",
+        "closest_town": "San Martin, California",
+        "ele": 85,
+        "faa": "E16",
+        "gnis:county_name": "Santa Clara",
+        "gnis:created": "03/01/1994",
+        "gnis:feature_id": 1653956,
+        "gnis:feature_type": "Airport",
+        "is_in": "US",
+        "name:en": "San Martin Airport",
+        "operator": "Santa Clara County, California",
+        "ref": "E12",
+        "source": "wikipedia",
+        "source_ref": "geonames.usgs.gov",
+        "type": "Public",
+        "wikidata": "Q7566905",
+        "@timestamp": "2018-11-26T00:27:33Z",
+        "@version": 14,
+        "@changeset": 64880210,
+        "@user": "IotosCa",
+        "@uid": 7602126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.5990811,
+              37.0854343
+            ],
+            [
+              -121.5948044,
+              37.0776555
+            ],
+            [
+              -121.5945656,
+              37.0777411
+            ],
+            [
+              -121.5988357,
+              37.0855167
+            ],
+            [
+              -121.5990811,
+              37.0854343
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/285816684",
+        "aeroway": "runway",
+        "area": "yes",
+        "surface": "asphalt",
+        "@timestamp": "2021-04-26T08:21:16Z",
+        "@version": 3,
+        "@changeset": 103618217,
+        "@user": "Minh Nguyen",
+        "@uid": 33757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.6008318,
+              37.080207
+            ],
+            [
+              -121.6007752,
+              37.0801017
+            ],
+            [
+              -121.6004943,
+              37.0801977
+            ],
+            [
+              -121.6005509,
+              37.0803031
+            ],
+            [
+              -121.6008318,
+              37.080207
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/935291526",
+        "aeroway": "hangar",
+        "building": "hangar",
+        "@timestamp": "2021-04-26T08:21:16Z",
+        "@version": 1,
+        "@changeset": 103618217,
+        "@user": "Minh Nguyen",
+        "@uid": 33757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.5999418,
+              37.0810268
+            ],
+            [
+              -121.5998518,
+              37.0808657
+            ],
+            [
+              -121.5986862,
+              37.0812801
+            ],
+            [
+              -121.5987761,
+              37.081441
+            ],
+            [
+              -121.5999418,
+              37.0810268
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/935291527",
+        "aeroway": "hangar",
+        "building": "hangar",
+        "@timestamp": "2021-04-26T08:21:16Z",
+        "@version": 1,
+        "@changeset": 103618217,
+        "@user": "Minh Nguyen",
+        "@uid": 33757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.5989645,
+            37.0854594
+          ],
+          [
+            -121.5989373,
+            37.0854158
+          ],
+          [
+            -121.5974586,
+            37.0827258
+          ],
+          [
+            -121.5960763,
+            37.0802109
+          ],
+          [
+            -121.5947218,
+            37.0777467
+          ],
+          [
+            -121.5946944,
+            37.0776983
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/27286461",
+        "aeroway": "runway",
+        "ref": "14/32",
+        "surface": "asphalt",
+        "@timestamp": "2015-02-04T11:13:54Z",
+        "@version": 8,
+        "@changeset": 28608460,
+        "@user": "user8192",
+        "@uid": 262921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.5960763,
+            37.0802109
+          ],
+          [
+            -121.5969328,
+            37.0799095
+          ],
+          [
+            -121.5975946,
+            37.0796766
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/27778161",
+        "aeroway": "taxiway",
+        "ref": "B",
+        "surface": "asphalt",
+        "@timestamp": "2015-02-04T11:13:55Z",
+        "@version": 5,
+        "@changeset": 28608460,
+        "@user": "user8192",
+        "@uid": 262921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.5974586,
+            37.0827258
+          ],
+          [
+            -121.5983149,
+            37.0824195
+          ],
+          [
+            -121.5989798,
+            37.0821817
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/27778181",
+        "aeroway": "taxiway",
+        "ref": "C",
+        "surface": "asphalt",
+        "@timestamp": "2015-02-04T11:13:55Z",
+        "@version": 4,
+        "@changeset": 28608460,
+        "@user": "user8192",
+        "@uid": 262921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.5989373,
+            37.0854158
+          ],
+          [
+            -121.5997986,
+            37.0851137
+          ],
+          [
+            -121.6002868,
+            37.0849425
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/27778207",
+        "aeroway": "taxiway",
+        "ref": "D",
+        "surface": "asphalt",
+        "@timestamp": "2015-02-04T11:13:55Z",
+        "@version": 4,
+        "@changeset": 28608460,
+        "@user": "user8192",
+        "@uid": 262921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.5997986,
+            37.0851137
+          ],
+          [
+            -121.5983149,
+            37.0824195
+          ],
+          [
+            -121.5969328,
+            37.0799095
+          ],
+          [
+            -121.5955759,
+            37.0774413
+          ],
+          [
+            -121.5947218,
+            37.0777467
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/137852790",
+        "aeroway": "taxiway",
+        "note": "Taxiway \"F\" adjacent to freeway fence is closed and no longer usable.",
+        "ref": "A",
+        "surface": "asphalt",
+        "@timestamp": "2015-02-04T11:13:55Z",
+        "@version": 2,
+        "@changeset": 28608460,
+        "@user": "user8192",
+        "@uid": 262921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.5993447,
+            37.0828402
+          ],
+          [
+            -121.5989798,
+            37.0821817
+          ],
+          [
+            -121.5975946,
+            37.0796766
+          ],
+          [
+            -121.5962404,
+            37.0772038
+          ],
+          [
+            -121.5955759,
+            37.0774413
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/137852794",
+        "aeroway": "taxiway",
+        "ref": "E",
+        "surface": "asphalt",
+        "@timestamp": "2015-02-04T11:13:56Z",
+        "@version": 2,
+        "@changeset": 28608460,
+        "@user": "user8192",
+        "@uid": 262921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.599404,
+            37.0829605
+          ],
+          [
+            -121.5993447,
+            37.0828402
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/137852797",
+        "aeroway": "taxiway",
+        "@timestamp": "2011-11-21T17:40:11Z",
+        "@version": 1,
+        "@changeset": 9899540,
+        "@user": "user8192",
+        "@uid": 262921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5986401,
+          37.0780751
+        ]
+      },
+      "properties": {
+        "@id": "node/1162786564",
+        "access": "permissive",
+        "barrier": "gate",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "@timestamp": "2011-11-21T17:40:16Z",
+        "@version": 4,
+        "@changeset": 9899540,
+        "@user": "user8192",
+        "@uid": 262921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5954328,
+          37.0780224
+        ]
+      },
+      "properties": {
+        "@id": "node/1505767690",
+        "aeroway": "windsock",
+        "@timestamp": "2011-11-17T00:20:50Z",
+        "@version": 1,
+        "@changeset": 9850271,
+        "@user": "user8192",
+        "@uid": 262921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.600682,
+          37.0793549
+        ]
+      },
+      "properties": {
+        "@id": "node/1505767693",
+        "access": "private",
+        "barrier": "gate",
+        "bicycle": "no",
+        "foot": "no",
+        "motorcar": "yes",
+        "@timestamp": "2021-04-26T08:21:16Z",
+        "@version": 3,
+        "@changeset": 103618217,
+        "@user": "Minh Nguyen",
+        "@uid": 33757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6007982,
+          37.0850081
+        ]
+      },
+      "properties": {
+        "@id": "node/1506099768",
+        "access": "permissive",
+        "barrier": "gate",
+        "bicycle": "no",
+        "foot": "no",
+        "motorcar": "yes",
+        "@timestamp": "2011-11-17T09:48:09Z",
+        "@version": 1,
+        "@changeset": 9852518,
+        "@user": "user8192",
+        "@uid": 262921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.5951224156142,
+            37.07765575043641
+          ],
+          [
+            -121.5949907168687,
+            37.07741650485464
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/1505867691",
+        "aeroway": "stopway",
+        "@uid": 362921,
+        "ref": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.5964756435375,
+            37.08011888605775
+          ],
+          [
+            -121.5964409029474,
+            37.08005615098381
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/1605867691",
+        "aeroway": "stopway",
+        "@uid": 362921,
+        "ref": "B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.5978541325786,
+            37.08262986961149
+          ],
+          [
+            -121.5978189062256,
+            37.08256558426728
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/1705867691",
+        "aeroway": "stopway",
+        "@uid": 362921,
+        "ref": "C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.5992992683707,
+            37.08526242243306
+          ],
+          [
+            -121.5994250049404,
+            37.08549236593304
+          ]
+        ]
+      },
+      "properties": {
+        "@id": "way/1805867691",
+        "aeroway": "stopway",
+        "@uid": 362921,
+        "ref": "D"
+      }
+    }
+  ]
+}

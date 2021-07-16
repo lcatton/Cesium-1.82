@@ -1,0 +1,7 @@
+
+ThirdParty/
+Specs/
+Source/
+Build/
+.vscode/
+*.glb
